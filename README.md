@@ -16,10 +16,36 @@ I have been with **WAKEB** company since November 2022, initially serving as an 
 Apart from my work at **WAKEB**, I've also engaged in freelancing, particularly on a Microservices project as a backend developer. This experience has honed my skills in designing and implementing scalable backend solutions within a Microservices architecture. Collaborating with diverse teams, I've gained insights into distributed systems and delivered effective solutions.
 
 ## Technology Stack
-- **Languages**: PHP, JavaScript, C#, C++
-- **Frameworks**: Laravel, Tailwind CSS
-- **Tools**: PHPStorm
-- **Others**: HTML5, CSS3
+- **Languages**: 
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+    </div>
+
+- **Frameworks**: 
+    <div align="left">
+      <img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff0000" height="30" alt="laravel logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+    </div>
+
+- **Tools**: 
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+    </div>
+
+- **Others**: 
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+    </div>
+
 
 ## Connect with Me
 - [Instagram](https://www.instagram.com/hossammohamed558)
