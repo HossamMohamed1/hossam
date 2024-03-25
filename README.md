@@ -31,7 +31,7 @@ Apart from my work at **WAKEB**, I've also engaged in freelancing, particularly 
     <div align="left">
       <img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff0000" height="30" alt="laravel logo"  />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+      <img src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg" height="30" alt="tailwindcss logo"  />
     </div>
 
 - **Tools**: 
