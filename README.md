@@ -2,7 +2,7 @@
 
 Hi there! 👋 My name is Hossam, and I'm a passionate Software Engineer based in Cairo.
 
-![Hossam]([https://i.imgflip.com/65efzo.gif](https://drive.google.com/file/d/1FYVA57JezXp7rl0ftlvCxtqLH87jfy7s/view?usp=drive_link))
+![Hossam]([https://drive.google.com/file/d/1FYVA57JezXp7rl0ftlvCxtqLH87jfy7s/view?usp=drive_link])
 
 ## About Me
 
